@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend course by chai aur code",
+  "keywords": [
+    "node",
+    "chai",
+    "aur",
+    "code",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Dheerendra Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
